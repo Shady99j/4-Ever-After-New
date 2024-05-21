@@ -1,0 +1,95 @@
+
+
+
+
+#Home{
+    background-image: url(./img/bg2.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+}
+
+.nav-link{
+    font-size: large;
+}
+
+.lead-h{
+    font-size: largeer;
+    font-weight: 400;
+}
+
+.foot-h{
+    text-align: center;
+}
+
+.feature-icon{
+    background-color: burlywood;
+
+}
+
+.cover-container{
+    margin: 0 200px;
+}
+
+
+.navbar .head{
+    color: #343638;
+    font-size: x-large;
+}
+
+
+.Plan-Offers{
+    text-decoration:none;
+    font-size: x-large;
+} 
+
+
+/**/
+
+.HIW{background-image: url(./img/corousel-bg.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 500px;
+}
+
+
+
+h1, h2{
+    color:#17202A;
+}
+
+.sec{
+    background-color: #e7e6e5 ;
+}
+ 
+.feature-icon-small{
+    background-color: burlywood;
+}
+
+.foot{
+    background: linear-gradient(300deg, #5a5a5a, #ebcc93, #d4c286);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
